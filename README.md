@@ -139,7 +139,12 @@ Total: $9.00
 ## 👤 Author
 
 **Shaik Md Jakeer**  
+
 📅 *Created on:* 2025-10-15  
+- 📧 **Email:** shaikjakeer0205@gmail.com
+- 🌐 **GitHub:**
+https://github.com/SkMdJakeer
+
 💬 *Learning project while exploring Python CLI apps.*
 
 ---
