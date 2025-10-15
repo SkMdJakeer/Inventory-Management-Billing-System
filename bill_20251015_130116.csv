@@ -1,0 +1,9 @@
+BILL
+Date,2025-10-15 13:01:16
+
+Product,Quantity,Unit Price,Total
+shirt,2,$300.00,$600.00
+pant,1,$500.00,$500.00
+
+Subtotal,,,$1100.00
+Total,,,$1100.00
